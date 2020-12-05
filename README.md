@@ -15,4 +15,8 @@ Our test data includes benign app from Googlestore (https://play.google.com) and
 
 
 # Data preprocess
-We exract the entities from the decompiled apks following the lists in the directory 
+First, use the smalibat.py in the directory tool to decompile Apks.
+Then, exract the entities from the decompiled apks following the lists in the directory feature_list and contruct these information into matrices.
+
+# Statement
+Due to the limitation of storage, we only upload part of the processed data temporarily.
